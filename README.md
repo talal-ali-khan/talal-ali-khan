@@ -4,9 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Enthusiast
 -------------------------
 
-I am a Cyber Security Engineer who has a keen interest in Web Application Security and who enjoy doing bug bounties. Moreover I also do Malware Analysis and Reverse Engineering. And yes I sometimes do play CTF's
+I’m a Cyber Security Engineer passionate about Web Application Security, actively hunting bugs, diving into Malware Analysis and Reverse Engineering, and jumping into CTFs whenever I get the chance.
 
-You can read my articles related to reverse engineering on my medium blog => https://medium.com/@talal.ak
+You can read my articles related to reverse engineering on my medium blog => https://medium.com/@talal.ak <a href="http://www.medium.com/@talal.ak" target="_blank" rel="noreferrer"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> 
+  </picture> 
+</a>
+
 
 * ✉️  You can contact me at [talal.official.7@gmail.com](mailto:talal.official.7@gmail.com)
 
