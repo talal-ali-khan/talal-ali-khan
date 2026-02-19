@@ -6,7 +6,7 @@ Cyber Security Enthusiast
 
 I’m a Cyber Security Engineer passionate about Web Application Security, actively hunting bugs, diving into Malware Analysis and Reverse Engineering, and jumping into CTFs whenever I get the chance.
 
-You can read my articles related to reverse engineering on my medium blog => https://medium.com/@talal.ak <a href="http://www.medium.com/@talal.ak" target="_blank" rel="noreferrer"> 
+You can read my articles related to reverse engineering on my medium blog ===> <a href="http://www.medium.com/@talal.ak" target="_blank" rel="noreferrer"> 
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> 
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> 
